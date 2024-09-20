@@ -31,7 +31,7 @@ NAME = "Pinterest_Generated_Client"
 # http://pypi.python.org/pypi/setuptools
 
 REQUIRES = [
-  "urllib3==1.26.12",
+  "urllib3>=1.26.12,<3",
   "python-dateutil",
 ]
 
